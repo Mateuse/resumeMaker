@@ -1,0 +1,109 @@
+{
+    "name": "Emanuel Mateus",
+    "phoneNumber": "(514) 553-9776",
+    "email": "emateus71@gmail.com",
+    "website": "https://emanuelmateus.com/",
+    "github": "https://github.com/Mateuse",
+    "employment": [
+        {
+            "company": "John Hancock",
+            "position": "Full Stack Software Engineer",
+            "location": "Boston",
+            "startDate": "2023-03",
+            "endDate": "",
+            "highlights": [
+                "Implemented MFA migration away from email across several applications using React and NodeJs, improving security security standards.",
+                "Designed and built new registration and validation workflows with React, NodeJS, .NET, and Spring.",
+                "Improve the performance of several utility API's by up to 20% using NodeJS and .Net.",
+                "Introduced feature flags across all internal applications, enabling A/B testing and lowering time to production by 10%.",
+                "Engineered a new API middleware to facilitate the integration between LDAP and various in-house applications, bolstering data accessibliity and inter-connectivity.",
+                "Mentor junior engineers, guiding them in solving problems efficiently using best practices."
+            ]
+        },
+        {
+            "company": "Microsoft",
+            "position": "Software Engineer",
+            "startDate": "2022-03",
+            "endDate": "2023-02",
+            "location": "Vancouver",
+            "highlights": [
+                "Implemented follow topic system increasing user engagement for selected topics by up to 27% using React and .NET.",
+                "Created a 'Topics for You' page which displayed a custom feed based off of user preferences, increasing ad revenue for topics pages by 2.4%",
+                "Member of the livesite excellence crew which provided trainings, troubleshooting guides, and investigative queries improving time to resolution of livesites by 60%",
+                "Modified and built API responses to support new features in MSN with .NET.",
+                "Created News carousels for relevant categories on MSN news using React, and .NET."
+            ]
+        },
+        {
+            "company": "Canadian Broadcasting Corporation",
+            "position": "Software Engineer",
+            "startDate": "2019-04",
+            "endDate": "2022-03",
+            "location": "Montreal",
+            "highlights": [
+                "Implemented microservices to process thousands of media files per day using Python, RabbitMQ, and Celery.",
+                "Built and maintained an internal monitoring tool for media pipelines using Flask, Angular, and MongoDB.",
+                "Integrated a continuous deployment system for the audio and video broadcasting devices using Ansible, Python, and Jenkins.",
+                "Created workflows that modify and distribute thousands of media files per day to various internal applications using Python."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "technologies": [
+                "Hugo",
+                "HTML",
+                "JavaScript",
+                "SCSS"
+            ],
+            "name": "Wheel Snipe Celly",
+            "description": "Designed and developped a hockey related blog incorporating google analytics to tract impressions",
+            "url": "https://wheelsnipecelly.info"
+        },
+        {
+            "technologies": [
+                ".Net",
+                "Angular",
+                "SQL"
+            ],
+            "name": "Quality Doc",
+            "description": "Built a real-time web application for PDF review, management, version control, and statistical analysis of documents within a project or a team",
+            "website": ""
+        },
+        {
+            "technologies": [
+                "React"
+            ],
+            "name": "Personal Website",
+            "description": "Created a dynamic personal website as a resume alternative",
+            "website": "https://emanuelmateus.com/"
+        }
+    ],    
+    "skills": [
+        {
+            "name": "Programming",
+            "items": [
+                "Python",
+                "React",
+                "NodeJS",
+                ".NET",
+                "Java",
+                "Golang",
+                "HTML",
+                "CSS",
+                "SQL",
+                "MongoDB",
+                "Ansible",
+                "Jenkins"
+            ]
+        },
+        {
+            "name": "Languages",
+            "items": [
+                "English",
+                "French",
+                "Portuguese (A2)"
+            ]
+        }
+    ]
+}
