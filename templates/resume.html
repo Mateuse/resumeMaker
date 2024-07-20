@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='css/resume.css') }}" type="text/css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="title">
+                <h1>{{ name }}</h1>
+            </div>
+            <div class="contact">
+                <p>{{ email }}</p>
+                <p>{{ phone }}</p>
+            </div>
+        </div>
+        <div class="sites">
+            <a href="https://github.com/Mateuse">https://github.com/Mateuse</a>
+            <a href="https://emanuelmateus.com/">https://emanuelmateus.com/</a>
+        </div>
+        <span class="seperator"></span>
+    </div>
+</body>
